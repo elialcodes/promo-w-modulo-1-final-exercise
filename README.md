@@ -1,6 +1,7 @@
 # promo-w-modulo-1-final-exercise
-Ejercicio final de repaso módulo 1 Adalab:
-- crear y clonar repositorio
-- integrar starter kit
-- maquetar
-- hacer despliegue con GitHub Pages
+Final exercise module 1 Adalab:
+- create and clone a repository
+- insert starter kit
+- make layour
+- deploy
+- create a GitHub Page
