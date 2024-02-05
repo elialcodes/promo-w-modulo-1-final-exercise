@@ -1,0 +1,11 @@
+.section {
+  padding: 40px $padding-central-column;
+  background-color: $color-background-2;
+  &__article {
+    font-family: $font-main;
+    margin-bottom: 20px;
+    & h2 {
+      font-size: $font-h2;
+    }
+  }
+}

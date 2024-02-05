@@ -1,5 +1,17 @@
-.page__header {
-  display: flex;
-  justify-content: space-evenly;
-  margin-bottom: 3rem;
+.header {
+  padding: $padding-central-column;
+  background-color: $color-background-1;
+  text-align: center;
+  &__figure {
+    width: 60%;
+    margin: auto;
+    &--image {
+      width: 100%;
+    }
+  }
+}
+h1 {
+  font-size: $font-h1;
+  font-family: $font-main;
+  margin-top: 20px;
 }

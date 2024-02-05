@@ -1,0 +1,32 @@
+aside {
+  background-color: $color-background-3;
+  font-family: $font-main;
+  padding: $padding-central-column;
+  display: flex;
+  justify-content: space-between;
+  & h3 {
+    font-size: $font-h3;
+    font-family: $font-main;
+  }
+}
+.aside__article1 {
+  width: 50%;
+  & img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+}
+.aside__article2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 20%;
+
+  & li {
+    line-height: 30px;
+    font-family: $font-main;
+  }
+}
