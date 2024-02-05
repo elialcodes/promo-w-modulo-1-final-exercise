@@ -2,6 +2,6 @@
 Final exercise module 1 Adalab:
 - create and clone a repository
 - insert starter kit
-- make layour
+- make layout
 - deploy
 - create a GitHub Page
